@@ -72,8 +72,8 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)  
-📬 Mail: **your.email@example.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abhijeet-rao-02170432a/)  
+📬 Mail: **abhijeetrao7800@gmail.com**
 
 ---
 
