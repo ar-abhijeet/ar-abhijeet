@@ -47,8 +47,8 @@
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhijeet-rao-02170432a/)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 📫 **Email:** abhijeetrao7800@gmail.com
 
 ---
